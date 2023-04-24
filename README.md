@@ -2,13 +2,9 @@
   <h3 align="center">Heya 👋, I'm Rastin</h3>
 </p>
 <div align="center">
-  <h3 align="center">Let's connect</h3>
-[!["Follow me on Twitter"](https://img.shields.io/twitter/follow/hashirshoaeb?label=Follow%20me)](https://twitter.com/hashirshoaeb)
-
-
-<!--   <img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" /> -->
-<!--   <img src="https://img.shields.io/badge/gitlab-%2312100E.svg?&style=for-the-badge&logo=gitlab&logoColor=white&color=9b51e0" /> -->
-<!--   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/gitlab-%2312100E.svg?&style=for-the-badge&logo=gitlab&logoColor=white&color=9b51e0" />
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
 <p align="center">
   <h4 align="center">CS Student @ UVic</h4>
