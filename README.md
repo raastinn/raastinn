@@ -12,7 +12,7 @@
 
 <hr/>
 
-I'm most passionate about software development 📲, continuous learning 👷‍♀️, best practices 🧰, and documentation 📖.
+I'm passionate about software development 📲, continuous learning 👷‍♀️, and enthusiastic about solving problems 📖.
 
 - <img src="https://rastin.dev/favicon.ico"  width="22" height="22"> Feel free to checkout my [portfolio](https://rastin.dev/) website!
 - 🏢 Computer Science Student [@UVic](https://www.uvic.ca), in Victoria BC
