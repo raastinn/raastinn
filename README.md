@@ -25,8 +25,8 @@ I'm most passionate about software development 📲, continuous learning 👷‍
 <div align="center"> 
 <h3 align="center">Let's connect</h3>
 
-[!["Follow me on Twitter"](https://img.shields.io/twitter/follow/hashirshoaeb?label=Follow%20me)](https://twitter.com/hashirshoaeb)
-[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hashirshoaeb)
+<!-- [!["Follow me on Twitter"](https://img.shields.io/twitter/follow/hashirshoaeb?label=Follow%20me)](https://twitter.com/hashirshoaeb) -->
+<!-- [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hashirshoaeb) -->
 
 </div>
 <!-- [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/raastinn)
