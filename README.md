@@ -2,6 +2,13 @@
   <h3 align="center">Heya 👋, I'm Rastin</h3>
 </p>
 <p align="center">
+    <a href="https://rastin.dev">About Me</a>
+    ·
+    <a href="mailto:rastinrashidi@gmail.com">Email</a>
+    ·
+    <a href="https://linkedin.com/in/rastin-rashidi">LinkedIn</a>
+</p>
+<p align="center">
   <h4 align="center">CS Student @ UVic</h4>
 </p>
 
