@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">Heya 👋, I'm Rastin</h3>
+  <h3 align="center">Hey 👋, I'm Rastin</h3>
 </p>
 <p align="center">
     <a href="https://rastin.dev">About Me</a>
