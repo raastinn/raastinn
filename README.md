@@ -18,7 +18,7 @@ I'm passionate about software development 📲, continuous learning 👷‍♀�
 
 - <img src="https://rastin.dev/favicon.ico"  width="22" height="22"> Feel free to checkout my [portfolio](https://rastin.dev/) website!
 - 🏢 Computer Science Student [@UVic](https://www.uvic.ca), in Victoria BC
-- 🧰 I build with: `Python` `Java`, `HTML`, `JavaScript`, `CSS`,  `C`, ...
+- 🧰 I build with: `Python` `Java`, `React`, `TypeScript/JavaScript`,  `Node.js`, `Express.js`, `C` ...
 - ⚡ I enjoy photography, playing soccer, reading, and lifting weights :)
 - 📫 Reach out to me: rastinrashidi@gmail.com
 
